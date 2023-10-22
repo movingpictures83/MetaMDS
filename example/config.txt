@@ -1,0 +1,2 @@
+Prefix plugins/MetaMDS/example/
+Plugin MetaMDS inputfile ARO_Counts.rds outputfile none

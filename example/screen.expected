@@ -1,0 +1,104 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: MetaMDS
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.06329874
+Run 1 stress 0.06329874
+... Procrustes: rmse 9.096061e-06  max resid 1.631863e-05
+... Similar to previous best
+Run 2 stress 0.06506973
+Run 3 stress 0.06506973
+Run 4 stress 0.06329874
+... Procrustes: rmse 7.177522e-07  max resid 1.12702e-06
+... Similar to previous best
+Run 5 stress 0.06329874
+... Procrustes: rmse 8.922875e-06  max resid 1.275577e-05
+... Similar to previous best
+Run 6 stress 0.1415942
+Run 7 stress 0.06385085
+Run 8 stress 0.06385085
+Run 9 stress 0.2795736
+Run 10 stress 0.2000379
+Run 11 stress 0.15946
+Run 12 stress 0.15946
+Run 13 stress 0.06506973
+Run 14 stress 0.2000379
+Run 15 stress 0.06329874
+... Procrustes: rmse 5.979681e-07  max resid 9.682084e-07
+... Similar to previous best
+Run 16 stress 0.2603977
+Run 17 stress 0.2006281
+Run 18 stress 0.15946
+Run 19 stress 0.06329874
+... Procrustes: rmse 8.557916e-06  max resid 1.511435e-05
+... Similar to previous best
+Run 20 stress 0.06329874
+... Procrustes: rmse 2.237645e-05  max resid 3.905002e-05
+... Similar to previous best
+*** Best solution repeated 6 times
+Wisconsin double standardization
+Run 0 stress 0.06013251
+Run 1 stress 0.0601325
+... New best solution
+... Procrustes: rmse 2.657563e-05  max resid 4.275509e-05
+... Similar to previous best
+Run 2 stress 0.06013251
+... Procrustes: rmse 4.489985e-05  max resid 7.16785e-05
+... Similar to previous best
+Run 3 stress 0.1369256
+Run 4 stress 0.06013251
+... Procrustes: rmse 2.694763e-05  max resid 4.536317e-05
+... Similar to previous best
+Run 5 stress 0.0601325
+... Procrustes: rmse 7.615546e-06  max resid 1.128795e-05
+... Similar to previous best
+Run 6 stress 0.1415934
+Run 7 stress 0.0601325
+... Procrustes: rmse 1.465128e-05  max resid 3.185283e-05
+... Similar to previous best
+Run 8 stress 0.07321066
+Run 9 stress 0.07321068
+Run 10 stress 0.07321067
+Run 11 stress 0.0601325
+... New best solution
+... Procrustes: rmse 2.359173e-06  max resid 4.596369e-06
+... Similar to previous best
+Run 12 stress 0.11452
+Run 13 stress 0.06013251
+... Procrustes: rmse 2.148838e-05  max resid 4.049508e-05
+... Similar to previous best
+Run 14 stress 0.07321068
+Run 15 stress 0.06013251
+... Procrustes: rmse 2.288513e-05  max resid 4.513935e-05
+... Similar to previous best
+Run 16 stress 0.1423396
+Run 17 stress 0.1423396
+Run 18 stress 0.1415934
+Run 19 stress 0.1369255
+Run 20 stress 0.0601325
+... Procrustes: rmse 7.277642e-06  max resid 1.569829e-05
+... Similar to previous best
+*** Best solution repeated 4 times
